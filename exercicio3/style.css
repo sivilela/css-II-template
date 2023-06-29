@@ -1,0 +1,19 @@
+button:hover{
+  background-color: red;
+  color: white;
+}
+
+button:active{
+  background-color: pink;
+  color: red;
+}
+
+/* button{
+  display: block;
+  margin: 0 auto;
+} */
+
+main{
+  text-align: center;
+  
+}
